@@ -120,4 +120,10 @@ Fix namings
 
 `perl -nle 's/>(.*)#(.*)\/(.*)/>$3_$1#$2\/$3/ if /consensus/; s/>(.*)/>$1#LTR\/CRM/ if /CRM/; print $_' history/maizeTE01302020 > maizeTE02052020`
 
+04/09/2026
 
+Added 40 newly curated sequences (no existing entries removed or reclassified):
+  -    28 LTR (Gypsy 14, Copia 9, unknown 5)
+  -    10 TIR DNA transposons (DTA 7, DTH 2, DTC 1),
+  -    2 LINEs (L1 1, RTE 1).
+39 follow the naming rules inherited from maizeTE02052020. One entry, RIL_YJ_0#LINE/L1, is a newly built LINE/L1 consensus with low similarity to existing LINE/L1 elements in maizeTE02052020. Previous library maizeTE02052020 moved to history/.
