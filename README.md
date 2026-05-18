@@ -127,7 +127,7 @@ The following 40 new transposable element (TE) sequences were added and the prev
 - 10 TIR DNA transposons (DTA 7, DTH 2, DTC 1)
 - 2 LINEs (L1 1, RTE 1)
 
-### Curation Notes:
+## Curation Notes:
 The 40 newly added transposable element (TE) sequences are highly accurate consensus sequences curated and validated through the following pipeline:
 
 * **Consensus Generation:** Initial candidate sequences were identified and their consensus boundaries were curated using **TEtrimmer**.
