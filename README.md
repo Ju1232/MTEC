@@ -122,7 +122,7 @@ Fix namings
 
 04/09/2026
 
-The following 40 new transposable element (TE) sequences were added and the previous library maizeTE02052020 was moved to history/.
+The following 40 new transposable element (TE) sequences were added and the previous library maizeTE02052020 was moved to history/. Additionally, the TEnaming_guideline.txt file was added to the repository to document TE naming conventions.
 - 28 LTR (Gypsy 14, Copia 9, unknown 5)
 - 10 TIR DNA transposons (DTA 7, DTH 2, DTC 1)
 - 2 LINEs (L1 1, RTE 1)
